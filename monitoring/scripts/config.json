@@ -1,0 +1,17 @@
+{
+  "send_sol_handler": "/home/main/solanaTokenSwap/handling/send_sol_handler/target/debug/send_sol_handler",
+  "send_token_handler": "/home/main/solanaTokenSwap/handling/send_token_handler/target/debug/send_token_handler",
+  "send_sol_program_id": "BPP6ULzktGPJJNdXJAjv5o1uAAeUgFYWVEeZisyCDJmo",
+  "send_token_program_id": "u8STJAr3h6hqb7XnYMiNqvzJrULgzfMxLLftGmCzGVy",
+  "keypair_file": "/home/main/token-manager.json",
+  "mint_account": "28wGsufhHpuQDBkeTXpNVLQz2zPUBoLc1gDpu7wBtejg", 
+  "owner": "58ZEW3nzhg3CQ8xYrqavsV71r6ErKX7a4PyJrrxc4pbE",
+  "token_receiver_wallet": "3vSighS9MqPBcZJbYWnw8AWvYw3NnvY58nf9QbNmUPnr",
+  "sol_receiver_wallet": "58ZEW3nzhg3CQ8xYrqavsV71r6ErKX7a4PyJrrxc4pbE", 
+  "commission_wallet": "58ZEW3nzhg3CQ8xYrqavsV71r6ErKX7a4PyJrrxc4pbE",  
+  "token_acc_str": "28wGsufhHpuQDBkeTXpNVLQz2zPUBoLc1gDpu7wBtejg", 
+  "rpc_client_str": "http://127.0.0.1:8899",
+  "ws_client_str": "ws://127.0.0.1:8900",
+  "commission_rate": "0.1",
+  "swap_rate": "200"
+}
